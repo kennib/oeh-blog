@@ -1,6 +1,7 @@
 ---
 title: Test
 layout: post
+date: 08-02-2016
 ---
 
 # Test
